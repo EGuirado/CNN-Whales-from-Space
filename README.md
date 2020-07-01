@@ -75,7 +75,7 @@ Automatic whale counting in satellite images with deep learning
 Emilio Guirado, Siham Tabik, Marga L. Rivas, Domingo Alcaraz-Segura, Francisco Herrera
 doi: https://doi.org/10.1101/443671
 
-Due to space limitation in Github, the dataset and codes are provided via email request to this email: e.guirado@ual.es and siham@ugr.es
+Corresponding author Emilio Guirado: e.guirado@ual.es
 
 ## Acknowledgments
 
